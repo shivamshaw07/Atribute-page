@@ -1,0 +1,26 @@
+body{
+    background-color: #a59698be;
+}
+.head{
+    text-align:center;
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;width: 50%;
+    border: 2px solid black;
+}
+.shiv{
+    padding: 20px;
+    background-color: rgb(219, 216, 218);
+    margin: auto;
+}
+ul{
+    text-align:justify;
+    list-style-position: inside;
+}
